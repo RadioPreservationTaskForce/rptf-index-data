@@ -1,2 +1,3 @@
 # rptf-index-data
-Holding repository for data  RTPF collections database
+
+Holding repository for data for the RPTF collections database
